@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'rico-icons';
+	src:url('../fonts/rico-icons.eot?raz7ms');
+	src:url('../fonts/rico-icons.eot?raz7ms#iefix') format('embedded-opentype'),
+		url('../fonts/rico-icons.ttf?raz7ms') format('truetype'),
+		url('../fonts/rico-icons.woff?raz7ms') format('woff'),
+		url('../fonts/rico-icons.svg?raz7ms#rico-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="ri-"], [class*=" ri-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'rico-icons' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.ri-aircraft:before {
+	content: "\e900";
+}
+.ri-business-man:before {
+	content: "\e901";
+}
+.ri-car:before {
+	content: "\e902";
+}
+.ri-holidays:before {
+	content: "\e903";
+}
+.ri-home:before {
+	content: "\e904";
+}
+.ri-sack:before {
+	content: "\e905";
+}
+.ri-stroller:before {
+	content: "\e906";
+}

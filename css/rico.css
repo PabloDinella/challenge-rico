@@ -1,0 +1,230 @@
+nav > div.container-fluid {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.navbar {
+	border-radius: 0;
+	border:none;
+}
+
+.navbar-grey {
+	background-color: rgb(79, 79, 79);
+}
+
+.navbar-brand {
+	padding-top: 8px;
+	padding-bottom: 13px;
+}
+
+.navbar-brand > img {
+	height: 100%;
+}
+
+.navbar-nav li a {
+	color: #fff !important;
+	padding: 13px 10px;
+}
+
+.navbar-form input[type="search"] {
+	color: #fff;
+	font-size: 1.3em;
+	width: 400px;
+}
+
+.navbar-form i {
+	color: #c6c6c6 !important;
+}
+
+.divider-vertical {
+	height: 50px;
+	margin: 0 12px;
+	border-left: 1px solid rgb(97, 97, 97);
+	border-right: 1px solid rgb(97, 97, 97);
+}
+
+.row {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+.chamada {
+	color:rgb(0, 228, 124);
+	font-family: 'Signika';
+	font-weight: 600;
+	font-size: 3.5em;
+	line-height: 1.2;
+}
+
+.badge {
+	background-color: rgb(210, 210, 210);
+	color: rgb(117, 117, 117);
+	font-weight: normal;
+	padding: 8px 16px;
+	border-radius: 14px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Signika';
+	font-weight: 600;
+	color: rgb(72, 72, 72);
+}
+
+h4,h5 {
+	font-weight: 700;
+}
+
+p {
+	font-family: 'Open Sans';
+	font-size: 1.2em;
+	color: rgb(172, 172, 172);
+}
+
+p.lead {
+	font-family: 'Lato';
+	font-weight: 100;
+	font-size: 2.4em;
+	margin-bottom: 20px;
+}
+
+input[type="text"], input[type="search"], input[type="number"] {
+	background-color: rgba(255, 255, 255, 0);
+	border: none;
+	padding-top: 0;
+	padding-bottom: 0;
+	box-shadow:none !important;
+}
+
+i.fa {
+	font-size: 1.5em !important;
+}
+
+.rico-icons a {
+	white-space: normal;
+}
+
+.rico-icons a span {
+	font-size: 5em;
+	line-height: 1.3em;
+}
+
+.objective-buttons a {
+	width: 170px;
+	height: 130px;
+	margin: 8px;
+	font-size: 0.9em;
+	font-weight: 600;
+}
+
+.btn {
+	margin-top: 35px;
+	border: none;
+	color: #fff;
+}
+
+.btn-start {
+	background-color:rgb(0, 228, 124);
+	font-weight: 700;
+	padding: 25px 40px;
+	border-radius: 80px;
+}
+
+.btn-start:visited {
+	background-color:rgb(0, 228, 124);
+	color: #fff;
+}
+
+.btn-start:hover {
+	color: #fff;
+	background-color:rgb(9, 179, 101);
+}
+
+.btn-start:active {
+	color: #fff !important;
+	background-color:rgb(7, 130, 74) !important;
+}
+
+.btn-flux {
+	background-color: rgb(131, 131, 131);
+	border-radius: 0;
+	padding: 10px;
+}
+
+.btn-flux:visited {
+	background-color: rgb(131, 131, 131);
+	color: #fff;
+}
+
+.btn-flux:hover {
+	background-color: rgb(163, 163, 163);
+	color: #fff;
+}
+
+.row .form-group {
+	width: 800px;
+}
+
+.form-group div, .form-group div input  {
+	font-family: 'Lato';
+	font-weight: 100;
+	font-size: 2.4em;
+	height: auto;
+}
+
+.input-group-addon {
+	background-color: rgba(255, 255, 255, 0);
+	border: none;
+}
+
+.value div.input-group-addon {
+	width: 370px !important;
+}
+
+.time div.input-group-addon {
+	width: 450px !important;
+}
+
+/* ---------- Step 7 Classes ---------- */
+
+.suggestions {
+	list-style: none;
+	padding: 0;
+	font-family: 'Open Sans';
+	font-size: 1.5em;
+	font-weight: 700;
+	margin-top: 40px;
+}
+
+.suggestions li {
+	display: inline-block;
+	margin: 10px;
+}
+
+.suggestions li a {
+	text-decoration: none;
+	color: rgb(149, 149, 149);
+	display: block;
+	min-width: 330px;
+	padding: 10px;
+	border: 2px solid rgb(149, 149, 149);
+	border-radius: 3px;
+}
+
+/* ---------- Helper Classes ---------- */
+
+.text-left {
+	text-align: left !important;
+}
+
+.text-center {
+	text-align: center !important;
+}
+
+.text-right {
+	text-align: right !important;
+}
