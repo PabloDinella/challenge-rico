@@ -10,6 +10,8 @@ Especificações do desafios: [link](https://gist.github.com/MarcosRava/f6c61ba6
 - Usei as rotas do angular pra criar uma SPA, então tem que rodar num webserver
 - Usei bootstrap e fiz minhas customizações no `rico.css`
 - Também criei um set de ícones customizados: `rico-icons.css`
+ 
+PS: Desculpem o easter egg gigante no index.html :P
 
 ## Pra rodar
 
