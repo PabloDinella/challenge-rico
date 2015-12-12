@@ -1,6 +1,6 @@
 # Desafio rico
 
-Obrigado pela oportunidade de chegar até esta etapa, e espero entrar na rico e poder vencer desafios e aprender todos os dias!
+Obrigado pela oportunidade de chegar até esta etapa, espero entrar na rico e poder vencer desafios e aprender todos os dias!
 
 ![enter image description here](http://cdn.meme.am/instances/500x/64760087.jpg)
 
